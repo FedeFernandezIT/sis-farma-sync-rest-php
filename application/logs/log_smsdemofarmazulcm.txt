@@ -1,0 +1,5 @@
+MENSAJE A ENVIAR - CLIENTE: SIN CLIENTE
+Titulo SMS: Farmacia - Destinatario: 669795142 - Mensaje: asdfgsfdg sdfg sdf 
+MENSAJE ENVIADO - ID: 830b12f7a98f494ea3cdf06b81604fe0
+ESTADO MENSAJE ENVIADO: sent
+

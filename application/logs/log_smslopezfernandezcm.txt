@@ -1,0 +1,1207 @@
+MENSAJE A ENVIAR - CLIENTE: 738
+Titulo SMS: Farmacia - Destinatario: 601398066 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 82cdcd8e-f0bf-4754-a71c-498312e1bc45
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55665
+Titulo SMS: Farmacia - Destinatario: 609659961 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b7c02888-143d-4fb1-a4f9-233b10da6065
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 5372
+Titulo SMS: Farmacia - Destinatario: 666536456 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 00de4684-a69e-4730-8cbd-6f69d1af40fe
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 55649
+Titulo SMS: Farmacia - Destinatario: 685591310 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: dd5bd5d0-44f0-46ef-a783-b0aeab326722
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5470
+Titulo SMS: Farmacia - Destinatario: 625834645 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 7aad8fa2-3210-4b16-9325-aa0ff1d432be
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5361
+Titulo SMS: Farmacia - Destinatario: 616436086 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 72d23605-6171-455a-890c-8f17162d1336
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 614
+Titulo SMS: Farmacia - Destinatario: 652657451 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 66e2f8b7-90fb-4435-b507-29a100ca2fdf
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 419
+Titulo SMS: Farmacia - Destinatario: 616167690 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8e4c8827-4de7-4834-83a9-0be66c2dea8a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1056
+Titulo SMS: Farmacia - Destinatario: 606379911 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a038aa6f-46db-4d06-a986-0cccc252fb6b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 966
+Titulo SMS: Farmacia - Destinatario: 646863067 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 7e77823b-7380-4661-bf74-cdf5da45a243
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 914
+Titulo SMS: Farmacia - Destinatario: 686874078 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9d7669f7-af34-4cae-a29c-82c3c9c8b2b2
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5124
+Titulo SMS: Farmacia - Destinatario: 651089054 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e36ab1c3-d803-40c8-98e1-c19dff8e28c4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55739
+Titulo SMS: Farmacia - Destinatario: 605271864 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 741f2b2d-824e-4e84-b043-113b2f7d6ddf
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55614
+Titulo SMS: Farmacia - Destinatario: 619532904 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e8d4e1ef-2ba1-4c3e-ad73-ba6d0a461bd9
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5002
+Titulo SMS: Farmacia - Destinatario: 687788923 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: baa855ce-81ba-4e22-ba33-bafab62ed64a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55696
+Titulo SMS: Farmacia - Destinatario: 629564810 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 523406e5-54bf-4992-a046-52b42974a4d7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55647
+Titulo SMS: Farmacia - Destinatario: 666614701 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 180b11cf-1380-4ea2-aed7-5d000d6e7b3f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1112
+Titulo SMS: Farmacia - Destinatario: 615915313 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 78d6c1b7-d868-41ea-9f0d-8e4207f5104f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 431
+Titulo SMS: Farmacia - Destinatario: 635952085 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 221a1052-bd5d-475a-b5ed-463c7b1e756b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5364
+Titulo SMS: Farmacia - Destinatario: 616370250 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5f8401d7-fd72-4a00-bf5a-d678b6158b8e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5505
+Titulo SMS: Farmacia - Destinatario: 636155849 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 1578fedf-76e6-4fb3-9acc-636fcc3e6030
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55886
+Titulo SMS: Farmacia - Destinatario: 629137355 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 79278146-70a8-4cb5-8dbf-3faed9e94d55
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5533
+Titulo SMS: Farmacia - Destinatario: 606994525 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a9b456ae-d8a3-4bf0-8a76-3d069bb4be43
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5594
+Titulo SMS: Farmacia - Destinatario: 670639770 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6b724393-8eb5-40e1-8f80-ea032d7959ed
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7022
+Titulo SMS: Farmacia - Destinatario: 680976265 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: dbc4f50c-589f-4135-9370-322bd409cb9e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5169
+Titulo SMS: Farmacia - Destinatario: 659208470 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ce0c46b6-0bac-4ed7-802b-7a15875fd9c3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6013
+Titulo SMS: Farmacia - Destinatario: 615436592 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e39a7113-c862-495d-b1bb-8d56fe58fbd1
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1233
+Titulo SMS: Farmacia - Destinatario: 699404647 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d3f1c6f1-35f7-499b-9171-c8f21cd8c8f8
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5527
+Titulo SMS: Farmacia - Destinatario: 627745013 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 1d3cf9e0-2257-4078-a9aa-eb65ee23553f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55821
+Titulo SMS: Farmacia - Destinatario: 616611922 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 2a1eb5cb-e149-44c8-949d-8827b9bc37a9
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55682
+Titulo SMS: Farmacia - Destinatario: 697475337 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fe35e4cc-9e59-4a53-8d60-f12a3ee872ed
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5399
+Titulo SMS: Farmacia - Destinatario: 607077227 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8e7ea875-b78c-4171-b9f8-462c2b8f1d95
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 875
+Titulo SMS: Farmacia - Destinatario: 655957091 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0ac91df9-4875-4887-af29-6662d8646c2a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5057
+Titulo SMS: Farmacia - Destinatario: 626060309 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 89e7b18d-fb02-4133-b0fd-43b8e2eb32d0
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5551
+Titulo SMS: Farmacia - Destinatario: 697953871 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 36b07d35-7c81-4f98-a0fd-b5e0f83a0671
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55810
+Titulo SMS: Farmacia - Destinatario: 667731717 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c890beb8-6cc5-44b9-bfa0-80cd6f09e374
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5070
+Titulo SMS: Farmacia - Destinatario: 636798675 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 40474184-2e32-4b37-ac02-15eb1470179c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1992
+Titulo SMS: Farmacia - Destinatario: 687089026 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b1c05c8a-825e-4226-aa6d-26743d0d072b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1028
+Titulo SMS: Farmacia - Destinatario: 600386618 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 915fe6a8-66c6-4711-b0c8-304c2cc47d7a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6055
+Titulo SMS: Farmacia - Destinatario: 661693265 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9fc5bc70-2015-44e6-be9e-9f0e00d58411
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5556
+Titulo SMS: Farmacia - Destinatario: 608452991 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6606aedb-1d53-4d31-8f2c-c3b3b3dab997
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5534
+Titulo SMS: Farmacia - Destinatario: 696222907 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8a07f1b3-7822-4ee2-89f8-2c00175eec57
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6023
+Titulo SMS: Farmacia - Destinatario: 672007520 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fd40f27c-75d1-4a68-8300-1e435ecedc04
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5354
+Titulo SMS: Farmacia - Destinatario: 607685893 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 62205838-4c57-40fd-96be-c3664c52009e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6032
+Titulo SMS: Farmacia - Destinatario: 661205760 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d0056ba5-61d7-4963-b58b-13fe5150449a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55587
+Titulo SMS: Farmacia - Destinatario: 637848617 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 13f7bacd-3b0e-45ec-87df-1e462e64bb42
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5334
+Titulo SMS: Farmacia - Destinatario: 666329103 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 513e056e-b52e-44d7-8069-b05fc1783344
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 459
+Titulo SMS: Farmacia - Destinatario: 667246858 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 03656ac0-8470-4747-bea2-388891d8d652
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1412
+Titulo SMS: Farmacia - Destinatario: 628161939 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8f1e90b9-7196-4ebf-bec3-ab3481f6fcf0
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5297
+Titulo SMS: Farmacia - Destinatario: 617379838 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0a4e2617-7ec1-4bd0-86f2-8994a561efa9
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6045
+Titulo SMS: Farmacia - Destinatario: 639760345 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 711de534-ad52-4905-a7a1-82d92ea7fc2a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5442
+Titulo SMS: Farmacia - Destinatario: 639461241 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 280632dc-af0b-43ce-a445-d033f82fa792
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 663
+Titulo SMS: Farmacia - Destinatario: 651181858 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0078726b-a7f4-41c7-b7ed-5eee278c3ae0
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1177
+Titulo SMS: Farmacia - Destinatario: 606725358 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0f6014a1-eb43-44a1-b102-e33ab0182985
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55777
+Titulo SMS: Farmacia - Destinatario: 629264529 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ccbf6d98-dd14-4d11-8a5e-8c57f5543dfc
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1040
+Titulo SMS: Farmacia - Destinatario: 669801085 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ade1e443-c12a-4649-9225-679c6c578688
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55643
+Titulo SMS: Farmacia - Destinatario: 651877007 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a048d9ae-526e-44fd-a63d-f52634d1bccf
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55873
+Titulo SMS: Farmacia - Destinatario: 670697213 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f787aa1c-82d2-4d66-83e8-e759aee4c64d
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 7003
+Titulo SMS: Farmacia - Destinatario: 630161312 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 90e922ac-d1bb-44dd-a60d-d2629dbfb5b4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55662
+Titulo SMS: Farmacia - Destinatario: 610630326 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a30cb15b-d1fe-4622-bb49-2cd847cc85fe
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1377
+Titulo SMS: Farmacia - Destinatario: 666322946 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e84cc379-d7ce-4368-b5fb-0d178435b69e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5560
+Titulo SMS: Farmacia - Destinatario: 654934104 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 621f99fb-5301-4857-99fc-1c4d866a6bb2
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 5203
+Titulo SMS: Farmacia - Destinatario: 678716909 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6f8e8c2a-96d3-4294-9b36-1c84c464137d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 945
+Titulo SMS: Farmacia - Destinatario: 619066571 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d6bca889-7b46-459c-b297-28d7ba9470e7
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 472
+Titulo SMS: Farmacia - Destinatario: 671031881 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3b78fd49-b3a3-4503-ab1a-c719c55b4ff1
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55698
+Titulo SMS: Farmacia - Destinatario: 651585897 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 919eebac-5307-4102-967a-c1ebe216fc95
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55819
+Titulo SMS: Farmacia - Destinatario: 649283751 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 032a6232-2655-4800-9128-29f21b538e4e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55800
+Titulo SMS: Farmacia - Destinatario: 679239679 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 34651f64-7bcb-46c6-9b67-384506f5c192
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55680
+Titulo SMS: Farmacia - Destinatario: 672327888 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0999b10f-4091-454d-9796-21f575c53dad
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55836
+Titulo SMS: Farmacia - Destinatario: 650217834 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: beec938a-0728-465b-b8e3-57c137968435
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55741
+Titulo SMS: Farmacia - Destinatario: 647086981 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a57207cf-ed4e-4295-b031-1749528bccd5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55813
+Titulo SMS: Farmacia - Destinatario: 658870997 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 795dcdad-c94c-4ce7-a198-772adf6a03ce
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6047
+Titulo SMS: Farmacia - Destinatario: 670619111 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c2a56e6e-1475-4261-986a-4fcf30bbead6
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55632
+Titulo SMS: Farmacia - Destinatario: 605501587 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fba70ffc-bfb6-4fc2-bf8c-916dadc6790c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6010
+Titulo SMS: Farmacia - Destinatario: 626512155 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fc15ef11-9bae-4827-be7b-b681568a9f8a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55717
+Titulo SMS: Farmacia - Destinatario: 677525810 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: dde0f647-c2fc-4b6a-a915-ffc3ef3ae809
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55805
+Titulo SMS: Farmacia - Destinatario: 650042847 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 58ddd556-21aa-4d94-b30e-3781018f3735
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1395
+Titulo SMS: Farmacia - Destinatario: 677615913 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5bb4e813-64da-4e80-8ec5-af6bf4cbf519
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55653
+Titulo SMS: Farmacia - Destinatario: 609163364 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 22a51153-48ff-4a51-a180-3ab342fe6538
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55748
+Titulo SMS: Farmacia - Destinatario: 657182533 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b7b5ef56-ec99-4044-93ba-b3c649ee1bc7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1308
+Titulo SMS: Farmacia - Destinatario: 607294217 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 709180cf-7143-416f-b2fc-b2b180ec7e67
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55728
+Titulo SMS: Farmacia - Destinatario: 619383286 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c56abf17-8f8f-4742-8f31-5ee161d5e908
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1399
+Titulo SMS: Farmacia - Destinatario: 610567393 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a30a76bb-aad8-4a0c-9b67-06db8c786687
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6028
+Titulo SMS: Farmacia - Destinatario: 651343259 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f17a7226-0c60-45cf-b6db-2ced695ef46a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5424
+Titulo SMS: Farmacia - Destinatario: 601193797 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fa975a86-c2ab-486c-80df-ac3b153761e5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7019
+Titulo SMS: Farmacia - Destinatario: 637304205 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8455adaa-a246-4f34-a8ca-268ffd2e1c9b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5335
+Titulo SMS: Farmacia - Destinatario: 616213569 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8b4cc7ae-9bd3-4674-9d7d-eba76324f18a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7005
+Titulo SMS: Farmacia - Destinatario: 660057332 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 720b9ed9-af8e-45fc-8787-f180a7fe6fc7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5544
+Titulo SMS: Farmacia - Destinatario: 627690007 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 00ace7f9-b63c-445c-805b-6961755be6ae
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 960
+Titulo SMS: Farmacia - Destinatario: 687926668 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 16f3c3d8-c9c2-41c5-bea8-8b4365909533
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55878
+Titulo SMS: Farmacia - Destinatario: 660053098 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: bf989232-dfe3-4a9a-b9da-d48dcf17e3aa
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55608
+Titulo SMS: Farmacia - Destinatario: 610541451 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9c9ebac4-ff5c-494d-a570-328bbe3b32e5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1000
+Titulo SMS: Farmacia - Destinatario: 625603985 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d2e37705-686c-4c0c-a3a9-3615ad7c13fb
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5105
+Titulo SMS: Farmacia - Destinatario: 610977058 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8b515d20-9eea-43f2-90d4-2cfb12aaa690
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55627
+Titulo SMS: Farmacia - Destinatario: 607294472 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6227b96e-d12c-467f-80a9-5abf2510e0c1
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5388
+Titulo SMS: Farmacia - Destinatario: 615505505 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 25413a15-cf4a-4396-b2a8-85a76eeca481
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 5089
+Titulo SMS: Farmacia - Destinatario: 649429204 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 94b157f0-71b8-454e-ab2d-bb488ea3985e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 747
+Titulo SMS: Farmacia - Destinatario: 628635363 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 01314303-69c0-4eeb-a68a-cf31956c76e4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6007
+Titulo SMS: Farmacia - Destinatario: 660424082 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6c71d449-b276-4da6-abf6-a8ad3b831b78
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 5541
+Titulo SMS: Farmacia - Destinatario: 655246638 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a811fe23-2e81-4d4d-b375-63b071620491
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55706
+Titulo SMS: Farmacia - Destinatario: 645377361 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 328bf35d-f48c-4ce8-ae45-e66d17039f78
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55868
+Titulo SMS: Farmacia - Destinatario: 616024601 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: bbe4841c-54bf-4cae-93f4-bd09db027a50
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 55671
+Titulo SMS: Farmacia - Destinatario: 659921475 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d1a8c012-1d53-442d-9fb6-8cda8c1ea99c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55802
+Titulo SMS: Farmacia - Destinatario: 696172723 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5456b924-ea94-4bf6-84db-f5df1b970f6a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6036
+Titulo SMS: Farmacia - Destinatario: 676210430 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: fb963d39-0094-48bc-bc49-63c40f86d48d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7011
+Titulo SMS: Farmacia - Destinatario: 697955465 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 84e603ea-515a-452f-9dc2-ee3fc1f01361
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55689
+Titulo SMS: Farmacia - Destinatario: 691430675 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d9ed60df-87d9-47b8-a6ea-895b4c6ea692
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6003
+Titulo SMS: Farmacia - Destinatario: 619532904 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d0c77ba0-100f-4408-9e57-21958568db5b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55637
+Titulo SMS: Farmacia - Destinatario: 678742333 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 65cf3414-e84d-452c-9257-cdbac0a7b20d
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 1389
+Titulo SMS: Farmacia - Destinatario: 685966583 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: cbdffa42-9eab-41c8-8b4e-971a53c2b108
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55595
+Titulo SMS: Farmacia - Destinatario: 617639714 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 04586339-aeaa-4baf-8295-73659fe08e5f
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 7002
+Titulo SMS: Farmacia - Destinatario: 620949425 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 62c5349d-a927-4676-9c72-855286f1f557
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7015
+Titulo SMS: Farmacia - Destinatario: 697738543 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 51d9d5ee-3bcd-4104-8f74-099e07f64b2d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1011
+Titulo SMS: Farmacia - Destinatario: 654117768 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5e76802e-ae33-4ec7-a0e5-e51c9218fc20
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 55869
+Titulo SMS: Farmacia - Destinatario: 636589010 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 508dc73a-98b0-4c29-a43f-e4397f9f6a96
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 6024
+Titulo SMS: Farmacia - Destinatario: 605824040 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0082aef3-de2a-4e69-b75f-ab7e0b97e3f0
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5565
+Titulo SMS: Farmacia - Destinatario: 635060545 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 697757e4-23ee-4c32-8c79-387753e7ea61
+ESTADO MENSAJE ENVIADO: Failed
+
+MENSAJE A ENVIAR - CLIENTE: 1202
+Titulo SMS: Farmacia - Destinatario: 607653043 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: af825e14-14e1-4560-a67f-cef355b7cf89
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 1404
+Titulo SMS: Farmacia - Destinatario: 649362869 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 08350b41-ea67-467f-8e47-d7c94c8afe92
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55670
+Titulo SMS: Farmacia - Destinatario: 661132094 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 24636882-e3c7-4551-aef4-a93eee256f4b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5579
+Titulo SMS: Farmacia - Destinatario: 667433430 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: aa3c0a6f-cd03-46e4-ac91-b24668c2b2b4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55787
+Titulo SMS: Farmacia - Destinatario: 626741839 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 2b0f0229-7cef-4753-900f-27b0ecdc48b0
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1408
+Titulo SMS: Farmacia - Destinatario: 645893129 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3282b90e-9742-45af-93fe-bbe87a905fe8
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6038
+Titulo SMS: Farmacia - Destinatario: 679242922 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 58bb687f-2e2a-4c32-81b8-485d7c5feff3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55846
+Titulo SMS: Farmacia - Destinatario: 678890636 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ccf9d9e7-1d1d-4cd3-aa96-dcd7d2b57aa4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 577
+Titulo SMS: Farmacia - Destinatario: 617361918 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d69e0855-efef-47aa-9634-91afecdaee59
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1384
+Titulo SMS: Farmacia - Destinatario: 607621264 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6d6828ec-b8ff-4f6a-a469-360ffd46aa90
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 1376
+Titulo SMS: Farmacia - Destinatario: 679418831 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 55a36a2f-f6ad-4737-a661-66c1cadbf7b2
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6016
+Titulo SMS: Farmacia - Destinatario: 630881552 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5f3b664f-39a5-4e40-b206-6085c72c472f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55801
+Titulo SMS: Farmacia - Destinatario: 677208851 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: bc9f94ea-abf6-49cd-b9a1-35e347a48d87
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1337
+Titulo SMS: Farmacia - Destinatario: 679123450 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3830c555-74e3-4cb1-8e18-19faddd797c3
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 55659
+Titulo SMS: Farmacia - Destinatario: 699471072 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b081d858-b1f3-4100-a7ec-90a2a8856bba
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55756
+Titulo SMS: Farmacia - Destinatario: 666325148 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0bdb8baf-c9c0-49a4-9180-8538a0398e64
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55697
+Titulo SMS: Farmacia - Destinatario: 696448656 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d17ef2cb-e4bc-4087-bf5a-cfa9f86c289c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55753
+Titulo SMS: Farmacia - Destinatario: 658825988 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 7cde7198-fdbf-4eb4-9648-b986a0d1c6c6
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5423
+Titulo SMS: Farmacia - Destinatario: 671038079 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8b8756ed-19b5-4c8d-a3d7-414a8b84832a
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 512
+Titulo SMS: Farmacia - Destinatario: 653677690 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 116fedd5-9ac1-4d4d-9eae-0acb886da099
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7028
+Titulo SMS: Farmacia - Destinatario: 627769392 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e56e5aad-7086-4543-a998-c2a239c3b3e8
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6048
+Titulo SMS: Farmacia - Destinatario: 677178979 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 2240206d-fc62-4f93-8260-2779a851e26c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55663
+Titulo SMS: Farmacia - Destinatario: 651476351 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 21df32b2-9435-40eb-95fc-5734777d47cf
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55685
+Titulo SMS: Farmacia - Destinatario: 677444680 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c085ee56-21e9-4355-a99e-741343c75e66
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1006
+Titulo SMS: Farmacia - Destinatario: 619169473 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 22ca5247-dcf0-4d00-8d75-088a0f03c220
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5555
+Titulo SMS: Farmacia - Destinatario: 670639770 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 16c33015-7a4a-4351-986f-8e99d4e2a53c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1303
+Titulo SMS: Farmacia - Destinatario: 659941049 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 964631cd-7e44-4a68-84a0-ff7dc3fc2c95
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5531
+Titulo SMS: Farmacia - Destinatario: 666977472 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6a6cbe43-1bca-46fe-ae1a-acf181986ad3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5395
+Titulo SMS: Farmacia - Destinatario: 651659508 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ff12d6e7-082d-43ee-b3e2-d0c6391390f3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5240
+Titulo SMS: Farmacia - Destinatario: 655485161 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b44ab2ab-8839-4bf7-a58e-4fd74fb6b9e3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55634
+Titulo SMS: Farmacia - Destinatario: 691492554 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: df10ac03-98b3-44a7-a5b7-3c3dd95b75a3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7014
+Titulo SMS: Farmacia - Destinatario: 661571955 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e9a5af02-5caa-4c3c-9f29-fb104c7b6850
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1268
+Titulo SMS: Farmacia - Destinatario: 669397995 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 152669db-d832-41e2-889d-911dea91cbb8
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55764
+Titulo SMS: Farmacia - Destinatario: 620469111 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e453f02a-0e04-484f-8d6b-ca4e88ca1a18
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55622
+Titulo SMS: Farmacia - Destinatario: 626919625 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c6268baa-029d-42b1-8f4e-1069e4755693
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55606
+Titulo SMS: Farmacia - Destinatario: 699317513 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 23ccdd3e-af67-47a6-b9e5-9d426700ba37
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55645
+Titulo SMS: Farmacia - Destinatario: 659831427 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f235b7f1-5d7e-4373-bf50-451fcfcfef45
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1103
+Titulo SMS: Farmacia - Destinatario: 678794479 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ea9a0ff1-4f39-43b0-adc3-ea6b80b6adf3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1398
+Titulo SMS: Farmacia - Destinatario: 696232285 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9ac7c042-cb04-4fb1-a5e0-22649b6e853f
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 55830
+Titulo SMS: Farmacia - Destinatario: 656161593 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 15f3cecd-1e37-44e7-8dba-d22ac236ecea
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1008
+Titulo SMS: Farmacia - Destinatario: 606621826 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0ad7518d-5fe5-41c7-9ebd-8a3593d55498
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55899
+Titulo SMS: Farmacia - Destinatario: 687015401 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 386fb8c5-04ea-4abf-8e6a-beebe3d80fec
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7018
+Titulo SMS: Farmacia - Destinatario: 609054053 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 16296ef2-4416-4194-92e5-c8bd9bc44dac
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1163
+Titulo SMS: Farmacia - Destinatario: 657403019 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 888a08c8-5058-4016-823c-85d42fd7b080
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55857
+Titulo SMS: Farmacia - Destinatario: 625219311 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 2c3ef9e6-a5b7-45d6-969e-cd8e88308242
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 723
+Titulo SMS: Farmacia - Destinatario: 679413219 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 460c4338-5986-40f0-a40f-8a71ccdd0dff
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5289
+Titulo SMS: Farmacia - Destinatario: 661680846 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a0ce7115-ca1d-474b-afb5-7bf48777d86e
+ESTADO MENSAJE ENVIADO: Failed
+
+MENSAJE A ENVIAR - CLIENTE: 452
+Titulo SMS: Farmacia - Destinatario: 601289091 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e9f43882-f2a7-45ee-83e7-575978f0e19c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5548
+Titulo SMS: Farmacia - Destinatario: 615980480 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e6c73e9e-8faf-4b85-81e1-afd0e7d6acd8
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55619
+Titulo SMS: Farmacia - Destinatario: 609438418 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d72e3f30-55bb-4781-8820-c9dc0cdf2b50
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55736
+Titulo SMS: Farmacia - Destinatario: 657388241 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c280ed13-f213-436d-91e2-295c4b9a3c57
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55874
+Titulo SMS: Farmacia - Destinatario: 650110190 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 14a9e18b-aa88-46e5-ac15-21f8a146930c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55701
+Titulo SMS: Farmacia - Destinatario: 636689639 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a0b48c8c-d938-4ab1-a191-649aea1bdf9b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55646
+Titulo SMS: Farmacia - Destinatario: 687840312 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6bf45eb8-573d-444e-a4e3-4de6701a0bb2
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55842
+Titulo SMS: Farmacia - Destinatario: 626052797 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 08f90e08-827f-43f5-aad6-edf6610d4320
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 55613
+Titulo SMS: Farmacia - Destinatario: 696247280 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 16fc9b38-d100-41d9-8019-3e5d1b15514c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5346
+Titulo SMS: Farmacia - Destinatario: 651188279 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: db8d330e-dfec-4855-85eb-f403bb727ab5
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 5538
+Titulo SMS: Farmacia - Destinatario: 626675700 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d681bc2d-cbed-4b8b-bfb8-44a406706c03
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5419
+Titulo SMS: Farmacia - Destinatario: 630377253 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9a8d0c5f-4564-4369-a5e5-097fc99df572
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5479
+Titulo SMS: Farmacia - Destinatario: 666397959 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d0420ff2-1953-438e-930f-1cddb8a76272
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6021
+Titulo SMS: Farmacia - Destinatario: 630236578 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 4151592f-c3a2-4c63-b19c-349acd2ada82
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55895
+Titulo SMS: Farmacia - Destinatario: 649485100 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: cb42b8b6-ccf5-4ba9-b479-34aad8c22e8e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55835
+Titulo SMS: Farmacia - Destinatario: 656353995 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b6147292-42db-429d-8fc2-ea8a3d5de349
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1403
+Titulo SMS: Farmacia - Destinatario: 607911516 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 65bc9ee2-3a58-43cf-8ef2-7cdb40526efc
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55699
+Titulo SMS: Farmacia - Destinatario: 635868803 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 31b659c5-d591-4073-8859-913698541674
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 55566
+Titulo SMS: Farmacia - Destinatario: 605067057 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 879a10bf-e3b2-4c04-be5e-015d7cd135b2
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55639
+Titulo SMS: Farmacia - Destinatario: 609546642 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3a079676-0f66-4e69-b708-5b5f5cfdd2f5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55768
+Titulo SMS: Farmacia - Destinatario: 689066246 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 1ee302d8-3fc7-4b82-831c-e2f3f9ff7f6f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55651
+Titulo SMS: Farmacia - Destinatario: 619047164 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8384b832-63a7-4c42-a426-8775d6d5301d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7020
+Titulo SMS: Farmacia - Destinatario: 659092517 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 69f9ee4f-5475-4118-9b19-95268c7224f9
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55782
+Titulo SMS: Farmacia - Destinatario: 696971620 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 093b0627-2147-4971-a949-b224eee5b198
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55856
+Titulo SMS: Farmacia - Destinatario: 656871207 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: ab5bbdc3-436e-471f-af3e-fe7f87f1aa10
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55828
+Titulo SMS: Farmacia - Destinatario: 699041608 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b60d503c-1df5-4d7b-bc07-11f87672d450
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 608
+Titulo SMS: Farmacia - Destinatario: 617930160 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 1e2a56ef-bd46-4a76-a954-0d2aac4bdd59
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55570
+Titulo SMS: Farmacia - Destinatario: 605802300 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: d018eff2-70d0-401d-89cb-daf212f796c5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 946
+Titulo SMS: Farmacia - Destinatario: 627956700 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 508aaeaa-dcb5-4b9f-9d8e-bf4136dfdbd7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55843
+Titulo SMS: Farmacia - Destinatario: 655411373 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 65ddbfa2-e2b7-4b6b-a598-1054ffed0707
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5396
+Titulo SMS: Farmacia - Destinatario: 676628724 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a9c2f816-53e1-4ef9-b13d-c3cbfbebd963
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55684
+Titulo SMS: Farmacia - Destinatario: 656274258 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 327ef00c-8785-4425-85b7-f46d9d1650f6
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5264
+Titulo SMS: Farmacia - Destinatario: 670641424 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a45b38fd-f2cf-453d-b112-04153560c2c7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55602
+Titulo SMS: Farmacia - Destinatario: 637445453 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8ce1e28d-8268-413d-bf1b-34bf0b0d97d8
+ESTADO MENSAJE ENVIADO: Delivered
+
+MENSAJE A ENVIAR - CLIENTE: 55711
+Titulo SMS: Farmacia - Destinatario: 606105668 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 14ffa22a-0dbd-42d8-a029-a7209f1c57ab
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1388
+Titulo SMS: Farmacia - Destinatario: 687703456 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0ea32b93-0986-4a46-b9db-72c47fc40a07
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55694
+Titulo SMS: Farmacia - Destinatario: 659257075 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 666c2437-126e-449c-8c25-095100373b07
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5510
+Titulo SMS: Farmacia - Destinatario: 655971521 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: b37feabb-d690-4261-bfd0-92a3fec4e4bd
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55852
+Titulo SMS: Farmacia - Destinatario: 605686359 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 341f8552-3aba-4448-9a2f-0af0866a240e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6029
+Titulo SMS: Farmacia - Destinatario: 666964005 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: bdc4838d-9d6e-4723-93f3-afb18af25a76
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55708
+Titulo SMS: Farmacia - Destinatario: 695125467 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 159595cf-c58a-4ba2-a0ad-7ed080ff0b91
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55723
+Titulo SMS: Farmacia - Destinatario: 647829069 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 90515098-985f-4c33-a4e4-62d0d8e21dba
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55798
+Titulo SMS: Farmacia - Destinatario: 620093432 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e9c5c6e9-8adc-43cf-905d-229b1c26c863
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 748
+Titulo SMS: Farmacia - Destinatario: 610680191 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0f29d4ac-7ee3-4c42-8614-2d4cb496f2da
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55693
+Titulo SMS: Farmacia - Destinatario: 677760602 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3719fd86-6123-4942-a3de-c69ca0ae17d5
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55862
+Titulo SMS: Farmacia - Destinatario: 666741194 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0227e483-6b70-4ea7-b55a-b308ed6c9d49
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55630
+Titulo SMS: Farmacia - Destinatario: 654982396 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: e2e7a502-a62e-44c9-b51a-a35f6b2fa092
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7017
+Titulo SMS: Farmacia - Destinatario: 627839650 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 9600591f-f3d5-4745-a444-6daec701c79d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5522
+Titulo SMS: Farmacia - Destinatario: 630013618 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f3c7c0c4-6b20-49aa-a43e-ef197d05d1d7
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55825
+Titulo SMS: Farmacia - Destinatario: 657130926 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8cf486a0-dad0-42c2-aaa6-cd93e0453faa
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55565
+Titulo SMS: Farmacia - Destinatario: 665902039 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 7835c649-76ed-4b77-a98f-0b2291546139
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5217
+Titulo SMS: Farmacia - Destinatario: 600412223 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 606ad51f-6478-478e-91a6-2db7c859aef2
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1372
+Titulo SMS: Farmacia - Destinatario: 639760345 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 390daecb-a747-4d18-bca3-3d29cabf6684
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5550
+Titulo SMS: Farmacia - Destinatario: 661150170 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 18383b13-8cf4-4bf8-9973-5d019bb00a6f
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1249
+Titulo SMS: Farmacia - Destinatario: 661794880 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6fd969f8-d174-48a1-83c3-12608544aced
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5262
+Titulo SMS: Farmacia - Destinatario: 667396485 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 094fa38c-8857-4f5f-af89-a38453b19386
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55817
+Titulo SMS: Farmacia - Destinatario: 609513131 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 3a72a11e-f1c3-465a-a604-91993d12222e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55767
+Titulo SMS: Farmacia - Destinatario: 622384271 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 49cdbb57-a15b-4f14-9ee5-4585f316921d
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6025
+Titulo SMS: Farmacia - Destinatario: 616963733 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 7ee04124-6f72-4290-aaef-b3b5f688b144
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7024
+Titulo SMS: Farmacia - Destinatario: 649984647 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 20c27a1a-75e5-4dc6-a48e-128a2ffc5624
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55771
+Titulo SMS: Farmacia - Destinatario: 616224453 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: a0d8092f-0830-4ed7-8531-00e6cc5f91df
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55720
+Titulo SMS: Farmacia - Destinatario: 646852740 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 2ad141fe-9e56-4b73-8969-ab8d2fc0d05c
+ESTADO MENSAJE ENVIADO: Submitted
+
+MENSAJE A ENVIAR - CLIENTE: 55859
+Titulo SMS: Farmacia - Destinatario: 679865619 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f6fc76a9-f9c0-44cc-b290-7771aed15c93
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55666
+Titulo SMS: Farmacia - Destinatario: 626939426 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 0166892b-573d-4ce7-9f86-28932b3f7bf3
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5552
+Titulo SMS: Farmacia - Destinatario: 610744166 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 6d2aafa7-7669-494a-bb04-075bbf5e7a82
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55752
+Titulo SMS: Farmacia - Destinatario: 629983496 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 8bf593f5-78bf-45f7-8ebb-2ab85e714073
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 7027
+Titulo SMS: Farmacia - Destinatario: 651982596 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 813e14ff-b0ab-4e41-93a6-1af35071c268
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6020
+Titulo SMS: Farmacia - Destinatario: 647742943 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: cf08ebbf-6097-44fb-b5ae-d7d1f60737e4
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6009
+Titulo SMS: Farmacia - Destinatario: 658178357 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: c9a80b38-ac88-4064-9b3e-bf982b0d6842
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55678
+Titulo SMS: Farmacia - Destinatario: 609409569 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 472aba60-214f-40c0-a4cf-850a9de2cd80
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55652
+Titulo SMS: Farmacia - Destinatario: 627596606 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 400f2631-c296-4a1a-b3f0-2d3bd7a55486
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1374
+Titulo SMS: Farmacia - Destinatario: 617501841 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 93eda597-01d3-4af4-8110-1463cbb9950c
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5288
+Titulo SMS: Farmacia - Destinatario: 686463162 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 24f202f7-4abc-4a38-a778-24a167761647
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55785
+Titulo SMS: Farmacia - Destinatario: 696200452 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 61294766-30e9-4042-90b7-f5d2802a096e
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 5122
+Titulo SMS: Farmacia - Destinatario: 680946182 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 5d7e7452-bda8-46f2-b449-c098ebd401e6
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 1360
+Titulo SMS: Farmacia - Destinatario: 625038338 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: 99b988e7-148b-400c-b905-85cc8c8ab64b
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 6027
+Titulo SMS: Farmacia - Destinatario: 627469795 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos
+MENSAJE ENVIADO - ID: f5ac5c4d-2ac6-4a88-be7f-7c537bca6605
+ESTADO MENSAJE ENVIADO: Sent
+
+MENSAJE A ENVIAR - CLIENTE: 55626
+Titulo SMS: Farmacia - Destinatario: 646919561 - Mensaje: Te ayudamos a dejar de fumar en Farmacia Lopez Fernandez,  el 28 de Mayo a las 19:00 horas. Pida Cita 954 240 288 o en Avda. Cardenal Bueno Monreal 28. Saludos

@@ -1,0 +1,5 @@
+MENSAJE A ENVIAR - CLIENTE: 669795142
+Titulo SMS: El Javillo - Destinatario: 669795142 - Mensaje: Su pedido ha sido preparado. En breve, lo recibira en su domicilio. Si tiene alguna duda sobre su pedido llamenos al 301-4095. Gracias por preferirnos!!!
+MENSAJE ENVIADO - ID: 67c263527ae845058327bad40709a813
+ESTADO MENSAJE ENVIADO: sent
+

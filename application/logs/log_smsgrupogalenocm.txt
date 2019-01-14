@@ -1,0 +1,5 @@
+MENSAJE A ENVIAR - CLIENTE: 2
+Titulo SMS: fghfgh - Destinatario: 34669795142 - Mensaje: fghfghfghfgh
+MENSAJE ENVIADO - ID: 76f63ce1a14549888f558c45ee136505
+ESTADO MENSAJE ENVIADO: sent
+

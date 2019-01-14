@@ -1,0 +1,5 @@
+MENSAJE A ENVIAR - CLIENTE: 654312645
+Titulo SMS: El Javillo - Destinatario: 654312645 - Mensaje: Su pedido ha sido enviado correctamente. Cuando lo tengamos preparado para su envio, nos pondremos en contacto con usted. Gracias por preferirnos!!!
+MENSAJE ENVIADO - ID: 258b76e60f9b4d6bb9832a9d301e5f21
+ESTADO MENSAJE ENVIADO: sent
+
