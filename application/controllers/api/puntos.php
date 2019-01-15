@@ -51,7 +51,9 @@ class Puntos extends REST_Controller {
 		$this->load->model('api/pendiente_puntos_model', 'puntosModel');
 
 		if(!$this->get('year')) {
-			$this->response('', 400);
+			$idVenta = $this->puntosModel->getUltimaVenta();
+
+			$this->response($idVenta, ($idVenta) ? 200 : 404);
 			return;
 		}		
 
@@ -139,18 +141,19 @@ class Puntos extends REST_Controller {
 			return;
 		}
 		
-		$success = array(
-				"idventa"		=> $puntos->where->idventa,
-				"rowsChanged"	=> $this->puntosModel->setData($puntos->set, json_decode(json_encode($puntos->where), true), true)
-			);
-			
-		// foreach ($puntos as $punto) {
-			// $success[] = array(
-				// "idventa"		=> $punto->where->idventa,
-				// "rowsChanged"	=> $this->puntosModel->setData($punto->set, $punto->where, true)
+		// $success = array(
+				// "idventa"		=> $puntos->where->idventa,
+				// "rowsChanged"	=> $this->puntosModel->setData($puntos->set, json_decode(json_encode($puntos->where), true), true)
 			// );
-			// usleep(1);
-		// }
+			
+		foreach ($puntos as $punto) {
+			$success[] = array(
+				"idventa"		=> $punto->where->idventa,
+				"rowschanged"	=> $this->puntosModel->setData($punto->set, json_decode(json_encode($punto->where), true), true)
+			);
+			usleep(1);
+		}
+		
 		$this->response($success, 200);
 	}
 

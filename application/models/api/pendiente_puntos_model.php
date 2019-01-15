@@ -75,6 +75,14 @@ class Pendiente_Puntos_Model extends CI_Model {
 		return count($row) ? $row : null;
 	}
 
+	function getUltimaVenta() {		
+		$this->db->select_max(self::ID, self::ID);		
+		$row = $this->db->get(self::TABLE, 1)->row();
+
+		return count($row) ? $row : null;
+	}
+	
+	
 	function getMinFechaVenta() {
 		$this->db->select(self::ID, self::ID);
 		$this->db->select_min('fechaVenta', 'fechaVenta');
