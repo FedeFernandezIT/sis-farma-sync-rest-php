@@ -151,7 +151,7 @@ class Familia extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");

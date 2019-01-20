@@ -15,8 +15,7 @@ class Familia_Model extends CI_Model {
 		'nivel1',
 		'nivel2',
 		'nivel3',
-		'nivel4',
-		'tipo'
+		'nivel4'
 	);
 
 	private $limit = 1;
