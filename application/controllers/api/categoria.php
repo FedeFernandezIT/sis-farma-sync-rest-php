@@ -26,6 +26,25 @@ class Categoria extends REST_Controller {
 			"exists" 	=> count($encargo) ? 1 : 0
 		), 200);
 	}
+	
+	function index_get(){
+
+		$this->load->model('api/categoria_model', 'categoriaModel');
+							
+	    if (!$this->get('categoria')) {
+			$pedido = $this->categoriaModel->getWhere(array(			
+			"padre"		=> $this->get('padre')));
+
+			$this->response($pedido, ($pedido) ? 200 : 404);
+			return;
+		}
+			
+		$pedido = $this->categoriaModel->getWhere(array(
+			"categoria" => $this->get('categoria'),
+			"padre"		=> $this->get('padre')));
+
+		$this->response($pedido, ($pedido) ? 200 : 404);
+	}
 
 	function exists_categoria_get(){
 		$this->load->model('api/categoria_model', 'categoriaModel');
@@ -72,7 +91,7 @@ class Categoria extends REST_Controller {
 			return;
 		}
 
-		$categorias = json_decode($this->post("categorias"));
+		$categorias = json_decode(json_encode($this->post("categorias")));
 
 		if (!$categorias){
 			$this->load->helper("api/json_helper");
@@ -89,12 +108,11 @@ class Categoria extends REST_Controller {
 				"rowsChanged"	=> $this->categoriaModel->insertData(array(
 					'categoria' => $categoria->categoria,
 					'padre' => $categoria->padre,
-					'prestashopPadreId' => $categoria->prestashopPadreId,
-					'tipo' => $categoria->tipo
+					'prestashopPadreId' => ($categoria->prestashopPadreId) ? $categoria->prestashopPadreId : null
 				))
 			);
 			usleep(1);
 		}
 		$this->response($success, 200);
-	}
+	}	
 }

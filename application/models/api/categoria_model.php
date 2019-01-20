@@ -9,6 +9,8 @@ class Categoria_Model extends CI_Model {
 	const ID = "id";
 
 	const COLUMNS = array(
+		"categoria",
+		"padre",
 		"prestashopPadreId"
 	);
 
