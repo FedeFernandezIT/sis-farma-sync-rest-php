@@ -6,10 +6,10 @@ class Pedido_Model extends CI_Model {
 
 	const TABLE = 'pedidos';
 
-	const ID = "IdPedido";
+	const ID = "idPedido";
 
 	const COLUMNS = array(
-		'IdPedido'
+		'idPedido'
 	);
 
 	private $limit = 1;
@@ -67,5 +67,12 @@ class Pedido_Model extends CI_Model {
 	
 	public function count(){
 		return (int)$this->db->count_all(self::TABLE);
+	}
+	
+	public function getLast(){		
+		$this->db->select_max(self::ID);		
+		$row = $this->db->get(self::TABLE, 1)->row();
+
+		return ($row->idPedido) ? $row : null;		
 	}
 }

@@ -13,6 +13,23 @@ class Pedido extends REST_Controller {
 		), 200);
 
 	}
+	
+	function index_get(){
+
+		$this->load->model('api/pedido_model', 'pedidoModel');
+		
+		$pedido = $this->pedidoModel->getWhere(array(
+			"idPedido" => $this->get('idPedido')));
+
+		$this->response($pedido, ($pedido) ? 200 : 404);
+	}
+	
+	public function ultimo_get() {
+		$this->load->model('api/pedido_model', 'pedidoModel');
+		
+		$last = $this->pedidoModel->getLast();
+		$this->response($last, ($last) ? 200 : 404);
+	}
 
 	public function index_delete() {
 		$this->load->model('api/linea_pedido_model', 'lineaPedidoModel');
@@ -44,8 +61,36 @@ class Pedido extends REST_Controller {
 		$this->response('', 400);
 	}
 
-
 	public function createUpdate_post() {
+
+		$this->load->model('api/pedido_model', 'pedidoModel');
+
+		if (!$this->post("bulk")){
+			$this->response('', 400);
+			return;
+		}
+
+		$bulk = json_decode(json_encode($this->post("bulk")));
+
+		if (!$bulk){
+			$this->load->helper("api/json_helper");
+			$this->response(array(				
+				"error" => $bulk
+			), 400);
+			return;
+		}
+
+		$success = array();
+		foreach ($bulk as $i => $pedido) {
+			$success[] = array(
+				"rowsChanged"	=> $this->pedidoModel->insert($pedido)
+			);
+			usleep(1);
+		}
+		$this->response($success, 200);
+	}
+	
+	public function createUpdateLinea_post() {
 
 		$this->load->model('api/linea_pedido_model', 'lineaPedidoModel');
 

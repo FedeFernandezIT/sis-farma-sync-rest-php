@@ -6,10 +6,11 @@ class Linea_Pedido_Model extends CI_Model {
 
 	const TABLE = 'lineas_pedidos';
 
-	const ID = "IdPedido";
+	const ID = "idPedido";
 
 	const COLUMNS = array(
-		'IdPedido'
+		'idPedido',
+		'idLinea'
 	);
 
 	private $limit = 1;

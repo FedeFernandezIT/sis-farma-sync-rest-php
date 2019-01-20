@@ -4,6 +4,17 @@ require(APPPATH.'libraries/REST_Controller.php');
 
 class Linea extends REST_Controller {
 
+	function index_get(){
+
+		$this->load->model('api/linea_pedido_model', 'lineaPedidoModel');
+		
+		$linea = $this->lineaPedidoModel->getWhere(array(
+			"idPedido" 	=> $this->get('pedido'),
+			"idLinea"  	=> $this->get('linea')));
+
+		$this->response($linea, ($linea) ? 200 : 404);
+	}
+
 	public function pedido_count_get(){
 		$this->load->model('api/linea_pedido_model', 'lineaPedidoModel');
 
@@ -59,7 +70,7 @@ class Linea extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");
