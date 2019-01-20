@@ -25,7 +25,7 @@ class Encargos_Model extends CI_Model {
 		$this->db->select_max(self::ID, self::ID);
 		$row = $this->db->get(self::TABLE, 1)->row();
 		
-		return count($row) ? $row->{self::ID} : null;
+		return ($row->idEncargo) ? $row : null;
 	}
 
 	function getMaxIdLineaByPedido($idEncargo) {

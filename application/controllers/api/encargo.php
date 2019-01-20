@@ -7,12 +7,22 @@ class Encargo extends REST_Controller {
 	function ultimo_get(){
 		$this->load->model('api/encargos_model', 'encargosModel');
 
-		$idEncargo = $this->encargosModel->getLast();
+		$last = $this->encargosModel->getLast();
 
-		$this->response(($idEncargo) ? $idEncargo : 1, ($idEncargo) ? 200 : 404);
+		$this->response(($last), ($last) ? 200 : 404);
 	}
 
 
+	function index_get(){
+
+		$this->load->model('api/encargos_model', 'encargosModel');
+		
+		$pedido = $this->encargosModel->getWhere(array(
+			"idEncargo" => $this->get('encargo')));
+
+		$this->response($pedido, ($pedido) ? 200 : 404);
+	}
+	
 	function exists_get(){
 		$this->load->model('api/encargos_model', 'encargosModel');
 
@@ -38,7 +48,7 @@ class Encargo extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");
@@ -51,8 +61,8 @@ class Encargo extends REST_Controller {
 		$success = array();
 		foreach ($bulk as $i => $encargo) {
 			$success[] = array(
-				"encargo"	=> $encargo->id,
-				"rowsChanged"	=> $this->encargosModel->setData($encargo, $encargo->id, true)
+				"encargo"	=> $encargo->idEncargo,
+				"rowsChanged"	=> $this->encargosModel->setData($encargo, $encargo->idEncargo, true)
 			);
 			usleep(1);
 		}
