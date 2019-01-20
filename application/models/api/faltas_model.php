@@ -9,7 +9,8 @@ class Faltas_Model extends REST_Model {
 	const ID = "idPedido";
 
 	const COLUMNS = array(
-		"idPedido"
+		"idPedido",
+		"idLinea"
 	);
 
 	private $limit = 1;
@@ -24,7 +25,7 @@ class Faltas_Model extends REST_Model {
 		$this->db->select_max(self::ID, self::ID);
 		$row = $this->db->get(self::TABLE, 1)->row();
 		
-		return count($row) ? $row->{self::ID} : null;
+		return count($row) ? $row : null;
 	}
 
 	function getMaxIdLineaByPedido($idPedido) {
@@ -95,6 +96,11 @@ class Faltas_Model extends REST_Model {
 		$this->db->where_in(self::ID, $medicamento);
 		$this->db->delete(self::TABLE);
 
+		return $this->db->affected_rows();
+	}
+	
+	public function insert($data = array()){
+		$this->db->insert(self::TABLE, $data);
 		return $this->db->affected_rows();
 	}
 

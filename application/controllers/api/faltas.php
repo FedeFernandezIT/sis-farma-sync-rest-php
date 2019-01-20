@@ -4,12 +4,23 @@ require(APPPATH.'libraries/REST_Controller.php');
 
 class Faltas extends REST_Controller {
  
+	function index_get(){
+
+		$this->load->model('api/faltas_model', 'faltasModel');
+		
+		$falta = $this->faltasModel->getWhere(array(
+			"idPedido" 	=> $this->get('pedido'),
+			"idLinea"  	=> $this->get('linea')));
+
+		$this->response($falta, ($falta) ? 200 : 404);
+	}
+	
 	function ultimo_get(){
 		$this->load->model('api/faltas_model', 'faltasModel');
 
 		$idPedido = $this->faltasModel->getLast();
 
-		$this->response($idPedido, ($idPedido) ? 200 : 404);
+		$this->response($idPedido, ($idPedido->idPedido) ? 200 : 404);
 	}
 
 
@@ -56,7 +67,7 @@ class Faltas extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");
@@ -67,10 +78,9 @@ class Faltas extends REST_Controller {
 		}
 
 		$success = array();
-		foreach ($bulk as $i => $faltas) {
-			$success[] = array(
-				"cod"	=> $faltas->cod,
-				"rowsChanged"	=> $this->faltasModel->setData($faltas, $faltas->cod, true)
+		foreach ($bulk as $i => $falta) {
+			$success[] = array(				
+				"rowsChanged"	=> $this->faltasModel->insert($falta)
 			);
 			usleep(1);
 		}
