@@ -9,7 +9,9 @@ class Lista_Model extends CI_Model {
 	const ID = "cod";
 
 	const COLUMNS = array(
-		'cod'
+		'cod',
+		'lista',
+		'porDondeVoy'
 	);
 
 	private $limit = 1;

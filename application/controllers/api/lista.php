@@ -12,7 +12,7 @@ class Lista extends REST_Controller {
 			'porDondeVoy' => 1
 		));
 
-		$this->response($lista->cod ? $lista->cod : -1, ($lista) ? 200 : 404);
+		$this->response(($lista) ? $lista : -1, ($lista) ? 200 : 404);
 	}
 
 
@@ -36,7 +36,7 @@ class Lista extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");
@@ -47,10 +47,7 @@ class Lista extends REST_Controller {
 		}
 
 		$success = array();
-		foreach ($bulk as $i => $lista) {
-			$lista = $this->listaModel->updateData(array(
-				'porDondeVoy' => 0
-			));
+		foreach ($bulk as $i => $lista) {			
 			$success[] = array(
 				"cod"	=> $lista->cod,
 				"rowsChanged"	=> $this->listaModel->setData($lista, $lista->cod, true)
@@ -58,6 +55,17 @@ class Lista extends REST_Controller {
 			usleep(1);
 		}
 		$this->response($success, 200);
+	}
+	
+	public function index_get(){
+
+		$this->load->model('api/lista_model', 'listaModel');
+
+		$lista = $this->listaModel->getWhere(array(
+			'cod' => $this->get('codigo')
+		));
+
+		$this->response($lista, ($lista) ? 200 : 404);
 	}
 
 	public function index_delete() {
@@ -100,7 +108,7 @@ class Lista extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->post("bulk"));
+		$bulk = json_decode(json_encode($this->post("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");
@@ -111,23 +119,23 @@ class Lista extends REST_Controller {
 		}
 
 		$success = array();
-		foreach ($bulk as $i => $cliente) {
+		foreach ($bulk as $i => $articulo) {
 			$success[] = array(
-				"codLista"		=> $cliente->cod_lista,
-				"rowsChanged"	=> $this->listaArticuloModel->setDataByDni($cliente, $cliente->cod_lista, true)
+				"codLista"		=> $articulo->cod_lista,
+				"rowsChanged"	=> $this->listaArticuloModel->insert($articulo)
 			);
 			usleep(1);
 		}
 		$this->response($success, 200);
 	}
 
-	public function articulo_delete() {
+	public function articulo_eliminar_put() {
 		$this->load->model('api/lista_articulo_model', 'listaArticuloModel');
 		
 		$ids = array();
 
-		if ($this->delete("ids")) {
-			$ids = json_decode($this->delete("ids"));
+		if ($this->put("ids")) {
+			$ids = json_decode(json_encode($this->put("ids")));
 
 			if (!$ids){
 				$this->load->helper("api/json_helper");
@@ -138,8 +146,8 @@ class Lista extends REST_Controller {
 			}
 		}
 
-		if ($this->delete("id")) 
-			$ids = array($this->delete("id"));
+		if ($this->put("id")) 
+			$ids = array($this->put("id"));
 
 		if (count($ids)) {
 			$this->response(array(

@@ -9,7 +9,8 @@ class Lista_Articulo_Model extends CI_Model {
 	const ID = "cod_lista";
 
 	const COLUMNS = array(
-		'cod_lista'
+		'cod_lista',
+		'cod_articulo'
 	);
 
 	private $limit = 1;
@@ -82,6 +83,11 @@ class Lista_Articulo_Model extends CI_Model {
 		}
 
 		return 0;
+	}
+	
+	public function insert($data = array()){						
+		$this->db->insert(self::TABLE, $data);
+		return $this->db->affected_rows();		
 	}
 
 	public function updateData($data, $where = null){
