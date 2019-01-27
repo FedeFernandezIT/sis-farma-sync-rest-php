@@ -131,6 +131,15 @@ class Pendiente_Puntos_Model extends CI_Model {
 
 		return count($row) ? $row : null;	
 	}
+	
+	function getByEjercicioAndGreatThanOrEqualFechaVenta($ejercicio, $fechaVenta) {
+		$this->db->where(array(
+			"YEAR(fechaVenta)" => $ejercicio,
+			"fechaVenta >=" => $fechaVenta
+		));
+		$row = $this->db->get(self::TABLE, 1)->row();
+		return count($row) ? $row : null;	
+	}
 
 	function setData($data = array(), $where = null, $insertIfNotExist = false){
 		if (!$where) return false;
