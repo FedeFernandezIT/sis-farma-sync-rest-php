@@ -121,6 +121,20 @@ class Puntos extends REST_Controller {
 		$this->response($data, ($data) ? 200 : 404);
 		return;		
 	}
+	
+	function exists_greater_equal_get() {
+		$this->load->model('api/pendiente_puntos_model', 'puntosModel');
+
+		if(!$this->get('ejercicio') || !$this->get('fechaVenta')) {
+			$this->response('', 400);
+			return;
+		}		
+		
+		$data = $this->puntosModel->getByEjercicioAndGreatThanOrEqualFechaVenta($this->get('ejercicio'), $this->get('fechaVenta'));
+
+		$this->response(($data) ? true : false, ($data) ? 200 : 404);
+		return;		
+	}
 
 	function createUpdate_post() {
 
