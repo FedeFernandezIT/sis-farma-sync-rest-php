@@ -69,5 +69,35 @@ class Encargo extends REST_Controller {
 		$this->response($success, 200);
 	}
 	
+	function update_post() {
+
+		$this->load->model('api/encargos_model', 'encargosModel');
+
+		if (!$this->post("bulk")){
+			$this->response('', 400);
+			return;
+		}
+
+		$bulk = json_decode(json_encode($this->post("bulk")));
+
+		if (!$bulk){
+			$this->load->helper("api/json_helper");
+			$this->response(array(
+				"error" => getLastJSONError()
+			), 400);
+			return;
+		}
+
+		$success = array();
+		foreach ($bulk as $i => $encargo) {
+			$success[] = array(
+				"encargo"	=> $encargo->idEncargo,
+				"rowsChanged"	=> $this->encargosModel->setData($encargo, $encargo->idEncargo, false)
+			);
+			usleep(1);
+		}
+		$this->response($success, 200);
+	}
+	
 
 }
