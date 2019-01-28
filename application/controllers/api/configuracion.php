@@ -33,6 +33,16 @@ class Configuracion extends REST_Controller {
 
 	}
 	
+	function esfarmazul_get() {
+		
+		$this->load->model('api/configuracion_model', 'configModel');
+
+		$farmazul = $this->configModel->esFarmazul();
+
+		$this->response($farmazul, 200);
+
+	}
+	
 	
 	// TODO: actualiza valor de campo
 	function campo_put() {

@@ -56,19 +56,14 @@ class Familia extends REST_Controller {
 			return;
 		}
 
-		if(!$this->get('tipo')) {
+		$hasColumnTipo = $this->familiaModel->hasColumnTipo();
+		if(!$hasColumnTipo) {
 			$familia = $this->familiaModel->getWhere(array(
 				'familia' => $this->get('familia')
 			));
 		}else{
-			$where = array('familia' => $this->get('familia'));
-			
-			$tipo = $this->get('tipo');
-			$customWhere = false;	
-			if ($tipo == 'Familia')
-				$customWhere = "tipo = 'Familia' OR tipo IS NULL";
-			else
-				$where['tipo'] = $tipo;
+			$where = array('familia' => $this->get('familia'));									
+			$customWhere = "tipo = 'Familia' OR tipo IS NULL";			
 
 			$familia = $this->familiaModel->getWhere($where, $customWhere);
 		}
@@ -172,4 +167,14 @@ class Familia extends REST_Controller {
 		$this->response($success, 200);
 	}
 
+	function exists_column_get(){
+		$this->load->model('api/familia_model', 'familiaModel');
+
+		
+
+		$columns = $this->familiaModel->hasColumnTipo();
+		
+
+		$this->response($columns, 200);
+	}
 }

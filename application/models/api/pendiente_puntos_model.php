@@ -118,7 +118,8 @@ class Pendiente_Puntos_Model extends CI_Model {
 		$this->db->select_sum('puntos', 'puntos');
 		$this->db->where("dni", $dni); 
 		$row = $this->db->get(self::TABLE, 1)->row();
-
+		
+		return count($row->puntos) ? $row->puntos : 0;
 		return count($row) ? $row : null;
 	}
 	

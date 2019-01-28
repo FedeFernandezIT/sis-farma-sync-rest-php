@@ -102,5 +102,11 @@ class Familia_Model extends CI_Model {
 
 		return $this->db->affected_rows();
 	}
-
+	
+	function hasColumnTipo() {
+		$sqlQuery = "SHOW COLUMNS FROM familia LIKE 'tipo'";
+		$query = $this->db->query($sqlQuery);
+		$rows = $query->result_array();
+		return count($rows) ? true : false;		
+	}
 }

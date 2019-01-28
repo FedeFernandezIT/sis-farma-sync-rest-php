@@ -90,7 +90,7 @@ class Cliente extends REST_Controller {
 			return;
 		}
 
-		$bulk = json_decode($this->put("bulk"));
+		$bulk = json_decode(json_encode($this->put("bulk")));
 
 		if (!$bulk){
 			$this->load->helper("api/json_helper");

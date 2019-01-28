@@ -244,7 +244,6 @@ class Puntos extends REST_Controller {
 
 		$suma = $this->canjeoPuntosModel->getTotalPuntosCanjeados($this->get('dni'));
 
-		$this->response($suma ? $suma : 0, 200);	
-	}
-
+		$this->response($suma ? $suma : 0, 200);			
+	}		
 }
