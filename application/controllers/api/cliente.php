@@ -117,7 +117,8 @@ class Cliente extends REST_Controller {
 		$now = date('Hi');
 
 		if ($now == "1500" || $now == "2300"){
-			$this->response('0', 200);
+			$this->response(array(
+				'dni' => 0), 200);
 			return;
 		}
 
