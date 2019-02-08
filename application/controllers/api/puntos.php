@@ -34,7 +34,12 @@ class Puntos extends REST_Controller {
 	function ventasNoActualizado_get() {
 		$this->load->model('api/pendiente_puntos_model', 'puntosModel');
 
-		$idVentas = $this->puntosModel->getNoActualizados();
+		if(!$this->get('greateranio')) {
+			$this->response('', 400);
+			return;
+		}
+		
+		$idVentas = $this->puntosModel->getNoActualizados($this->get('greateranio'));
 
 		$this->response($idVentas, 200);
 	}

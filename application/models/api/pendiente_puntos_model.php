@@ -30,12 +30,12 @@ class Pendiente_Puntos_Model extends CI_Model {
 	}
 
 	// TODO: en VB se consultaba por recetaPendiente
-	function getNoActualizados() {
+	function getNoActualizados($greateranio) {
 		$this->db->distinct();
 		$this->db->select(self::ID);
 		$this->db->where(array(
 			'actualizado'			=> '0',
-			'YEAR(fechaVenta) >='	=> '2016'
+			'YEAR(fechaVenta) >='	=> $greateranio
 		)); 
 		$this->db->get(self::TABLE, 1000)->result();
 
